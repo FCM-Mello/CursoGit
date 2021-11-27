@@ -8,6 +8,7 @@ namespace TesteDoGit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("oi");
+            Console.WriteLine("ok?");
 
             Console.ReadLine();
         }
